@@ -1,6 +1,6 @@
 # firebase_with_flutter
 
-A new Flutter project.
+This is a Flutter project for CS 8803 MAS HK1.
 
 ## Getting Started
 
