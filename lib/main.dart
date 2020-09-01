@@ -140,7 +140,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   
                 });
               },
-              child: Text("Get"),
+              child: Text("Get the latest record"),
             ),
             Text(retrievedName ?? "name"),
             Text(retrievedScore?.toString() ?? "times")
