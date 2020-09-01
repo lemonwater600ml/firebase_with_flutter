@@ -134,7 +134,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ref.child("Score").once().then((DataSnapshot data){
                   print(data.value);
                   print(data.key);
-                  setState(() {
+                  setState(() { 
                     retrievedScore = data.value;
                   });
                   
